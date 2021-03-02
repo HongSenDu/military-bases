@@ -31,7 +31,7 @@ map.on('load', function () {
 
         map.flyTo({
             center: feature.geometry.coordinates,
-            zoom: 16,
+            zoom: 12,
             speed: 30
         });
 
