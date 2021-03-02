@@ -1,6 +1,6 @@
 # Military Bases Map
 
-### USAGE
+### Usage
 
 Click on each point to zoom in on the base, and click the top left button to reset the map view. There are also additional map controls on the top right of the map.
 
